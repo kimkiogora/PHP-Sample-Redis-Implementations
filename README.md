@@ -1,5 +1,6 @@
 # PHP-Sample-Redis-Implementations
 How to use redis in PHP in Linux
+This folder (src) contains the library (RedisLib.php) used to interact with the redis server. Also there is a sample test client you can use ( Test.php )
 
 Dependencies
 ------------
