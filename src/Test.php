@@ -5,7 +5,7 @@ $memcache = new MemcacheLib(30);
 
 //Set cache first
 //$red = $memcache->saveToCache('stuff', 
-//        json_encode(array('username'=>'kimkiogora@gmail.com',
+//        json_encode(array('username'=>'xxx@yyy.com',
 //    'password'=>'!23qweASD'))
 //       );
 //print_r($red);
